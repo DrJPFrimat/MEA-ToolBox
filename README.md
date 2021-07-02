@@ -1,6 +1,6 @@
 # Toolbox
 
-You can download the installer for the MEA-Toolbox in the release section.
+You can download the installer for the MEA-Toolbox in the release section. 
 Please download the source code zip file.
 When unzipped you will have the installer together with the manual. 
 During the installation you will install the MATLAB 2018b runtime aswell as the toolbox requires it.
