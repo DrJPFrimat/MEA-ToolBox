@@ -4,7 +4,7 @@ You can download the installer for the MEA-Toolbox.
 There are two versions, one with the MATLAB 2018B runtime and one without.
 If you do not have MATLAB or a matlab version that is not 2018b, please download the version with the runtime.
 
-Another option is to download the runtime from MATLAB themselves from https://nl.mathworks.com/products/compiler/matlab-runtime.html
+Another option is to download the runtime from MATLAB (https://nl.mathworks.com/products/compiler/matlab-runtime.html)
 Please make sure to download the 2018B version and then you can use the installer without the runtime. 
 
 During the installation you will install the MATLAB 2018b runtime aswell as the toolbox requires it.
