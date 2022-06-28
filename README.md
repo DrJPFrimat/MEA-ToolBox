@@ -20,3 +20,6 @@ These test data files are converted msrd files into H5 files from the 24 multiwe
 Please analyze these files first before loading the analyzed files for exploration.
 
 https://drive.google.com/drive/folders/1IrS9-TnZHw8d7IW7TlJVqvXeNlGGVtY3?usp=sharing
+
+We are open to any suggestions to include/modify please let us know.
+
