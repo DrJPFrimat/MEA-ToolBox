@@ -21,5 +21,5 @@ Please analyze these files first before loading the analyzed files for explorati
 
 https://drive.google.com/drive/folders/1IrS9-TnZHw8d7IW7TlJVqvXeNlGGVtY3?usp=sharing
 
-We are open to any suggestions to include/modify please let us know.
+We are open to any suggestions for improvements please let us know.
 
