@@ -16,8 +16,8 @@ For help, please look at the manual or mail m.h.y.hu@lumc.nl
 
 
 The link below gives you access to a google drive with 3 different test data files that can be used for testing purposes.
-These test data files are converted msrd files into H5 files from the 24 multiwell MEA system (Multi Channel Systems).
-Please analyze these files first before loading the analyzed files for exploration.
+These test data files are converted msrd or mswd files into H5 files from the 24 multiwell MEA system or the single well MEA (Multi Channel Systems).
+if you want to use the H5 files please analyze these files first before loading the analyzed files for exploration.
 
 https://drive.google.com/drive/folders/1IrS9-TnZHw8d7IW7TlJVqvXeNlGGVtY3?usp=sharing
 
