@@ -1,6 +1,6 @@
 # MEA-ToolBox
 
-You can download the installer for the MEA-Toolbox.
+You can download the installer for the MEA-Toolbox from the github page or use the google drive link below.
 There are two versions, one with the MATLAB 2018B runtime and one without.
 If you do not have MATLAB or a matlab version that is not 2018b, please download the version with the runtime.
 
