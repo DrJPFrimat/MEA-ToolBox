@@ -13,7 +13,7 @@ Once installed and opened you will see a terminal window open.
 Please do not close this terminal window but just minimize it as it will display any error you might encounter and this will greatly help us to fix any problems that might occur.
 
 When using the source code, the main script of the MEAToolbox is the Main_Menu_Toolbox script.
-For help, please look at the manual or mail m.h.y.hu@lumc.nl
+For help, please look at the manual or mail j.p.m.s.frimat@lumc.nl
 
 
 The link below gives you access to a google drive with 3 different test data files that can be used for testing purposes.
